@@ -1,0 +1,7 @@
+Hadoop
+Spark
+Scala
+Hive
+Sqoop
+flume
+kafka
